@@ -31,7 +31,7 @@
 	* FifoCache
 	* LruCache
 
-
+adsfasdfasdf
 网络请求
 -------
 * RequestManager 内含初始化Volley方法以及获取请求队列实例
